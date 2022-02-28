@@ -1,0 +1,13 @@
+tensorflow==1.15
+tensorflow-gpu==1.15
+beautifulsoup4
+opencv-python
+Keras==2.3.1
+jupyter
+jupyterthemes
+yzmq==19.0.2
+imageio
+matplotlib
+sklearn
+tqdm
+lxml
